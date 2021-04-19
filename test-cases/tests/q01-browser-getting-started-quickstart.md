@@ -3,6 +3,7 @@ variants:
   - browser: Firefox
   - browser: Chrome
   - browser: Safari
+  - browser: Edge on Windows
 estimate: 30m
 ---
 
